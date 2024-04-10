@@ -5,7 +5,6 @@ public:
         std::unordered_map<char, char> s_to_t;
         std::unordered_map<char, char> t_to_s;
 
-
         for (int i = 0; i < s.length(); ++i)
          {
             char char_s = s[i];

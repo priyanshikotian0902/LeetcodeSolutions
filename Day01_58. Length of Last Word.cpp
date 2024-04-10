@@ -8,6 +8,7 @@ public:
         while(i>=0 && isspace(s[i]))
 {
     i--;
+
 }
 while(i>=0 && !isspace(s[i]))
 {
